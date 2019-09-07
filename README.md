@@ -1,1 +1,2 @@
 # AI-Chatbot
+Chatbot is the next big thing in the era of conversational services. It is a gradually getting more popularity due to its service in conversations in customer service, university TA, websites and toys. The proposed idea is to design a conversional chatterbot using CRF. We used a different model before to find out the better method for the chatbot. CRF gave satisfactory output. AI chatbot is developed and tested under a variety of settings. Experimental results show that our proposed method was quiet successful.
