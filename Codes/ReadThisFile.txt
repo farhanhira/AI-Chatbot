@@ -1,0 +1,17 @@
+install the chatterbot package by running the following command
+pip install ChatterBot-0.8.7-py2.py3-none-any.whl
+
+install the ChatterBot-0.8.4
+simple-websocket-server 
+by running the following command
+python setup.py install
+
+run chatbot_train_new.py python file to train the bot
+
+run chatbot.py python file
+
+run server.py python file
+ 
+run the index html file to load the "Chatbot"
+
+Now, you can chat with the bot. Thank You !!!
